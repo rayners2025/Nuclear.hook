@@ -1,4 +1,4 @@
--- nuclear.hook v2.3 | Keys: 123 x5 | Menu: Right Alt/Right Shift | HUD: Always On | Supports M1-M4 Binds
+-- Neegy.hook v2.3 | Keys: 123 x5 | Menu: Right Alt/Right Shift | HUD: Always On | Supports M1-M4 Binds
 -- + Aim Part dropdown | + Bindable keys for ALL features | + Persistent keybind HUD
 -- + Anti Drop-Off + Instant Hit + Hit Chance + Rage Bot | + Inventory Overlay
 local Players = game:GetService("Players")
